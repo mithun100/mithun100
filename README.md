@@ -18,5 +18,16 @@
 - CKAD (Certified Kubernetes Application Developer)
 - KCNA (Kubernetes and Cloud Native Associate)
 
+### 🎤 Speaking
+
+**Upcoming**
+- [Unscripted Conf](https://www.unscriptedconf.io/city/dallas) — Dallas, TX — Sep 24, 2026
+- BackstageCon (co-located with KubeCon) — upcoming
+
+**Past**
+- CKAD Workshop — Session 1 — Aug 27, 2026
+- LTRCLD-2018 — *eBPF in Action: A Practical Introduction and Use-Case Lab* (Instructor-Led Lab) — rated 4.83/5.00
+- LABOBS-2000 — *Monitoring AI Agents with Splunk Observability* (Walk-In Lab) — rated 4.71/5.00
+
 ### 🔗 Connect
 [LinkedIn](https://www.linkedin.com/in/mbanerjee/)

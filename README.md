@@ -3,7 +3,7 @@
 18 years in observability & platform engineering — now focused on **AI infrastructure and agentic systems**. I build tools that make AI agents observable, reliable, and production-ready.
 
 ### 🔭 What I'm working on
-- **[applai](https://github.com/mithun100/applai)** — [one-line description: what it does]
+- **[ckad-workshop](https://github.com/mithun100/ckad-workshop)** — hands-on Kubernetes/CKAD workshop material and exercises
 - **[travel-agent-observability-lab](https://github.com/mithun100/travel-agent-observability-lab)** — observability tooling for agentic AI workflows (tracing, evals, OTel instrumentation for multi-agent systems)
 
 ### 🧰 Tech & Tools
@@ -15,8 +15,8 @@
 
 ### 📜 Certifications
 - CKA (Certified Kubernetes Administrator)
-- CKS (Certified Kubernetes Security Specialist)
-- CCA (Certified Cloud Architect)
+- CKAD (Certified Kubernetes Application Developer)
+- KCNA (Kubernetes and Cloud Native Associate)
 
 ### 🔗 Connect
-[LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE) · [Blog](#)
+[LinkedIn](https://www.linkedin.com/in/mbanerjee/)

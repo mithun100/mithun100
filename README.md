@@ -1,0 +1,22 @@
+# Hi, I'm Mithun 👋
+
+18 years in observability & platform engineering — now focused on **AI infrastructure and agentic systems**. I build tools that make AI agents observable, reliable, and production-ready.
+
+### 🔭 What I'm working on
+- **[applai](https://github.com/mithun100/applai)** — [one-line description: what it does]
+- **[travel-agent-observability-lab](https://github.com/mithun100/travel-agent-observability-lab)** — observability tooling for agentic AI workflows (tracing, evals, OTel instrumentation for multi-agent systems)
+
+### 🧰 Tech & Tools
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-black?style=flat&logo=opentelemetry&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+### 📜 Certifications
+- CKA (Certified Kubernetes Administrator)
+- CKS (Certified Kubernetes Security Specialist)
+- CCA (Certified Cloud Architect)
+
+### 🔗 Connect
+[LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE) · [Blog](#)

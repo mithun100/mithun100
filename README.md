@@ -21,6 +21,7 @@
 ### 🎤 Speaking
 
 **Upcoming**
+- [CKAD Workshop — Session 2](https://ocgroups.dev/cncf/group/dallas/event/eq9h9ka) — CNCF Dallas — Sep 9, 2026
 - [Unscripted Conf](https://www.unscriptedconf.io/city/dallas) — Dallas, TX — Sep 24, 2026
 - BackstageCon (co-located with KubeCon) — upcoming
 

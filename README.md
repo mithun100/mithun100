@@ -4,7 +4,7 @@
 
 ### 🔭 What I'm working on
 - **[ckad-workshop](https://github.com/mithun100/ckad-workshop)** — hands-on Kubernetes/CKAD workshop material and exercises
-- **[travel-agent-observability-lab](https://github.com/mithun100/travel-agent-observability-lab)** — observability tooling for agentic AI workflows (tracing, evals, OTel instrumentation for multi-agent systems) · [demo](https://github.com/mithun100/travel-agent-demo)
+- **[travel-agent-observability-lab](https://github.com/mithun100/travel-agent-demo)** — observability tooling for agentic AI workflows (tracing, evals, OTel instrumentation for multi-agent systems)
 
 ### 🧰 Tech & Tools
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)

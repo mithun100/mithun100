@@ -21,12 +21,13 @@
 ### 🎤 Speaking
 
 **Upcoming**
-- [CKAD Workshop — Session 2](https://ocgroups.dev/cncf/group/dallas/event/eq9h9ka) — CNCF Dallas — Sep 9, 2026
-- [Unscripted Conf](https://www.unscriptedconf.io/city/dallas) — Dallas, TX — Sep 24, 2026
+- [CKAD Workshop — Session 3](https://www.meetup.com/kubernetes-and-cloud-native-north-dallas/events/316673103/) — Oct 7, 2026
 - BackstageCon (co-located with KubeCon) — upcoming
 
 **Past**
 - CKAD Workshop — Session 1 — Aug 27, 2026
+- [CKAD Workshop — Session 2](https://ocgroups.dev/cncf/group/dallas/event/eq9h9ka) — CNCF Dallas — Sep 9, 2026
+- [Unscripted Conf](https://www.unscriptedconf.io/city/dallas) — Dallas, TX — Sep 24, 2026
 - LTRCLD-2018 — *eBPF in Action: A Practical Introduction and Use-Case Lab* (Instructor-Led Lab) — rated 4.83/5.00
 - LABOBS-2000 — *Monitoring AI Agents with Splunk Observability* (Walk-In Lab) — rated 4.71/5.00
 
